@@ -59,7 +59,7 @@ def check_resume_format(yaml_file_path: str) -> bool:
   email: johndoe@example.com
   phone: 555-123-4567
   websites:
-      - https://linkedin.com/johndoe
+      - https://linkedin.com/in/johndoe
       - https://github.com/johndoe""",
         "objective": "objective: A Software Engineer with over 8 years of experience...",
         "education": """education:
